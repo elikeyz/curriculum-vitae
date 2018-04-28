@@ -21,6 +21,15 @@ body {
     display:inline-flex
 }
 
+a {
+    color: white;
+    text-decoration-line: none;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
+
 .info {
     display: flex;
     border-bottom: 2px solid black;
