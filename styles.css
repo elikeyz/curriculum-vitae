@@ -1,12 +1,14 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: tan;
+    background-color: rgb(245, 223, 195);
 }
 
 #header {
     background-color: blue;
     margin: 50px;
+    padding: 5px;
     border-radius: 10px;
+    box-shadow: 5px 10px rgb(94, 94, 243);
 }
 
 .header {
