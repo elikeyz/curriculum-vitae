@@ -23,11 +23,30 @@ body {
     display: flex;
     border-bottom: 2px solid black;
     align-content: center;
+    margin: 50px;
 }
 
 .sub-info {
-    margin: 20px;
+    margin: 50px;
     max-width: 33%;
+}
+
+.skills .hobbies {
+    min-width: 30%;
+    align-content: flex-start;
+}
+
+.work .add-skills {
+    min-width: 70%;
+    align-content: flex-end
+}
+
+#work #add-skills {
+    min-width: 100%
+}
+
+#footer {
+    margin: 50px;
 }
 
 #footer-title {
